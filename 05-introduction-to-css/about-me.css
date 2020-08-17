@@ -12,6 +12,15 @@
 h1 {
 
 	color: #54206E;
+
+/*	
+	border-color: purple;
+	border-width: 5px;
+	border-style: solid;
+*/
+
+	border: 2px purple dashed;
+
 }
 
 /*li {
@@ -24,7 +33,7 @@ h1 {
 
 li {
 
-	color: rgba(11 ,99 , 175, 0.5);
+	color: rgba(0 ,0 , 0, 0.9);
 
 }
 
@@ -36,4 +45,17 @@ li {
 h4 {
 
 	color: rgb(100, 0, 100);
+	background: rgb(255, 100, 80);
+}
+
+body {
+
+	background: pink;
+
+/*	
+	background: url(https://georgehill-timber.co.uk/media/mageplaza/blog/post/s/h/shutterstock_65163166-522x392.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+*/
+
 }
