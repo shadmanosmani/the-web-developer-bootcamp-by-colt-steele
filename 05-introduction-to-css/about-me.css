@@ -1,15 +1,39 @@
-h1 {
+/*h1 {
 
 	color: red;
+}*/
+
+/*
+1st and 2nd - Red (54)
+3rd and 4th characters - Green (20)
+5th and 6th characters- Blue (6E)
+*/
+
+h1 {
+
+	color: #54206E;
 }
 
-li {
+/*li {
 
 	color: green;
 
+}*/
+
+/*Just like RGB but with an alpha (transperancy) channel. Ranges from 0.0-1.0*/
+
+li {
+
+	color: rgba(11 ,99 , 175, 0.5);
+
 }
+
+/*h4 {
+
+	color: purple;
+}*/
 
 h4 {
 
-	color: purple;
+	color: rgb(100, 0, 100);
 }
